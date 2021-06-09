@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(35, 37, 37);
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-color: white;
+    width: 20%;
+    padding: 20px 50px 40px 50px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.inputs{
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+input{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 3px;
+    border:1px solid black;
+}
+#user-guess{
+    width: 70%;
+}
+#submit-guess{
+    background-color: #146a6a;
+    color: whitesmoke;
+}
+#submit-guess:hover{
+    cursor: pointer;
+    background-color: grey;
+}
+.message{
+    margin:8px 0px;
+}
+
+
+/* from js */
+.correct{
+    color: green;
+}
+.wrong{
+    color: red;
+    
+}
