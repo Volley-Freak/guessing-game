@@ -1,6 +1,6 @@
 # GuessingGame
 <h2>OVERVIEW</h2>
-This is a basic Web Text-Based Game.
+A basic Web Text-Based Game of Guessing a number between 1 to 10.
 
 <h3>Languages Used</h3>
 We have used basic HTML, CSS, Javascript.
