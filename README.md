@@ -11,5 +11,5 @@ We have used basic HTML, CSS, Javascript.
 
 <h3>Contributers</h3>
 <a href = "https://github.com/Volley-Freak/guessing-game/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = Volley-Freak/guessing-game"/>
+  <img src = "https://contrib.rocks/image?repo=Volley-Freak/guessing-game"/>
 </a>
