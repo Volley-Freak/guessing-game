@@ -22,7 +22,7 @@ We have used basic HTML, CSS, Javascript.
 <table >
 	<tr>
 		<td >
-			<a href="https://github.com/Volley-Freak/guessing-game/graphs/contributors"><img src="https://contrib.rocks/image?repo=Volley-Freak/guessing-game" /></a>
+			<a href="https://github.com/Volley-Freak/guessing-game/graphs/contributors"><img src="https://avatars.githubusercontent.com/u/85556562?v=4" height="40px" width="40px"/><img src="https://avatars.githubusercontent.com/u/56421861?v=4" height="40px" width="40px"/></a>
 		</td>
 	</tr>
 </table>
