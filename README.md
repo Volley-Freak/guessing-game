@@ -10,11 +10,6 @@ We have used basic HTML, CSS, Javascript.
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/soumita1234/HelpingHand/search?l=javascript)
 
 ## Project Admin :
-<a href = "https://github.com/Volley-Freak/guessing-game/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=Volley-Freak/guessing-game"/>
-</a>
-
-
 
 <table>
   <tr>
