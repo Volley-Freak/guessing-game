@@ -1,8 +1,8 @@
 # GuessingGame
-##OVERVIEW
+## OVERVIEW
 <h4>A basic Web Text-Based Game of Guessing a number between 1 to 10.</h4>
 
-##Languages Used
+## Languages Used
 We have used basic HTML, CSS, Javascript.
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/soumita1234/HelpingHand/search?l=html)&nbsp;
